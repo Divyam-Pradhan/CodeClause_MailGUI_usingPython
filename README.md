@@ -1,8 +1,31 @@
-# CodeClause Mail Application With GUI
-- This is a GUI Based Mail Application Using Tkinter &amp; Smtplib Modules.
+Email GUI Project
 
-- **Tkinter:** Tkinter is the de facto way in Python to create Graphical User interfaces (GUIs) and is included in all standard Python Distributions. In fact, it's the only framework built into the Python standard library.
+This project is a Graphical User Interface (GUI) application developed using Python and the Tkinter library. The purpose of the application is to provide a user-friendly interface for sending and receiving emails.
 
-- **Smtplib:** The smtplib module defines an SMTP client session object that can be used to send mail to any internet machine with an SMTP or ESMTP listener daemon. For details of SMTP and ESMTP operation, consult RFC 821 (Simple Mail Transfer Protocol) and RFC 1869 (SMTP Service Extensions).
 
-- **This is my _golden project_ of codeclause internship.**
+Requirements
+
+To run this project, you need to have the following installed:
+
+Python (version 3.x)
+Tkinter library (usually comes pre-installed with Python)
+An active internet connection
+
+Installation
+
+Clone this repository to your local machine or download the project files.
+Open a terminal or command prompt and navigate to the project directory.
+Once the dependencies are installed, you can run the project by executing the following command:
+
+python main.py
+
+Usage
+
+Upon running the application, the Email GUI window will appear and you can continue with the work intended.
+
+Contributions
+
+Contributions to this project are welcome. If you encounter any issues or have suggestions for improvements, feel free to open an issue or submit a pull request on the project's repository.
+
+Acknowledgements
+This project was developed using Python and the Tkinter library. We would like to acknowledge the creators and contributors of these technologies for providing the tools necessary for building this email GUI application.
